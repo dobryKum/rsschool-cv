@@ -75,9 +75,8 @@ class PhotoInfoController {
 ## Education
 
 * Belarussian State University of Informatics and Radioelectronics, Faculty of Computer-Aided Design, Programming Mobile Systems, Second year
-* Fully read and completed all tasks from book [App Development with Swift by Apple Education](https://books.apple.com/ru/book/app-development-with-swift/id1219117996)
-Right now started to read a book Effective Objective-C 2.0 by Galloway Matt.
+* Fully read and completed all tasks from book [App Development with Swift by Apple Education](https://books.apple.com/ru/book/app-development-with-swift/id1219117996). Right now started to read a book Effective Objective-C 2.0 by Galloway Matt.
 
 ## Engilsh
 
-Studied English language at High School, for about a year with tutor and first year in University. Right now I can read books and watch movies in English, but I will understand only 70-80 percent of them. My speaking skill is also getting weaker
+Studied English language at High School, for about a year with tutor and first year in University. Right now I can read books and watch movies in English, but I will understand only 70-80 percent of them. My speaking skill is also getting weaker. Don't know exactly what English level do I have now, but I think it's something betweent A2-B1
